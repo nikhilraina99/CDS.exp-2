@@ -81,7 +81,8 @@ int main() {
     staticExample();
     return 0;
 }
----
+```
+
 ## Explanation - 
 The program uses the sizeof operator to determine and display the size of various data types in bytes. It includes common data types such as int, float, double, char,bool,register,auto,short int,long int,long double and others.
 
