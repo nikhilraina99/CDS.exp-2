@@ -48,3 +48,52 @@ The `register` keyword suggests to the compiler that a particular variable shoul
 ---
 
 This rephrased content is concise and aligns with the professional tone often seen in GitHub documentation.
+## Code - 
+### 1.
+```
+//Nikhil
+//23070123093
+//entc b1
+//experiment 2a
+#include<iostream>
+using namespace std;
+int main(){
+    char a[100];
+    cout<<"size of int "<<sizeof(int)<<" char "<<sizeof(char)<<" float "<<sizeof(float)
+    <<" double "<<sizeof(string)<<" long "<<sizeof(bool)<<" array "<<sizeof(a);
+      return 0; }
+```
+### 2.
+```
+//Nikhil
+//23070123093
+//entc b1
+//experiment 2b
+#include <iostream>
+using namespace std;
+void staticExample(){
+    static int z=0;
+    z++;
+    cout<<"The Value of z is:"<<z<<endl;
+}
+int main() {
+    staticExample();
+    staticExample();
+    return 0;
+}
+---
+## Explanation - 
+The program uses the sizeof operator to determine and display the size of various data types in bytes. It includes common data types such as int, float, double, char,bool,register,auto,short int,long int,long double and others.
+
+## Output-
+### 1.
+
+
+
+
+
+
+
+
+
+
