@@ -58,7 +58,7 @@ This rephrased content is concise and aligns with the professional tone often se
 #include<iostream>
 using namespace std;
 int main(){
-    char a[100];
+    char a[120];
     cout<<"size of int "<<sizeof(int)<<" char "<<sizeof(char)<<" float "<<sizeof(float)
     <<" double "<<sizeof(string)<<" long "<<sizeof(bool)<<" array "<<sizeof(a);
       return 0; }
@@ -72,7 +72,7 @@ int main(){
 #include <iostream>
 using namespace std;
 void staticExample(){
-    static int z=0;
+    static int z=1;
     z++;
     cout<<"The Value of z is:"<<z<<endl;
 }
@@ -88,10 +88,9 @@ The program uses the sizeof operator to determine and display the size of variou
 
 ## Output-
 ### 1.
-![Screenshot 2024-08-12 200036](https://github.com/user-attachments/assets/9ffd1809-1d1c-48aa-a410-bd3e9c61ba4c)
 
 ### 2.
-![Screenshot 2024-08-12 200140](https://github.com/user-attachments/assets/e1031629-5013-471c-987a-45575c55d8c4)
+
 
 ## Conclusion - 
 This program helps in understanding how much memory is allocated for different data types, which is important for writing efficient and optimized code.
