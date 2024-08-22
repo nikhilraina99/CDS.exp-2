@@ -50,7 +50,7 @@ The `register` keyword suggests to the compiler that a particular variable shoul
 This rephrased content is concise and aligns with the professional tone often seen in GitHub documentation.
 ## Code - 
 ### 1.
-```
+```javascript
 //Nikhil
 //23070123093
 //entc b1
@@ -64,7 +64,7 @@ int main(){
       return 0; }
 ```
 ### 2.
-```
+```javascript
 //Nikhil
 //23070123093
 //entc b1
@@ -89,7 +89,12 @@ The program uses the sizeof operator to determine and display the size of variou
 ## Output-
 ### 1.
 
+![Screenshot 2024-08-23 005840](https://github.com/user-attachments/assets/ae151502-6a8e-457b-bbb6-7499d5b5e8d3)
+
+
 ### 2.
+
+![Screenshot 2024-08-23 005935](https://github.com/user-attachments/assets/bdd79e5d-ce83-4644-9175-31b75a7a7805)
 
 
 ## Conclusion - 
