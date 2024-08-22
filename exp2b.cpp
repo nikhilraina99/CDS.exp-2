@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 void staticExample(){
-    static int z=0;
+    static int z=1;
     z++;
     cout<<"The Value of z is:"<<z<<endl;
 }
